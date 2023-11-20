@@ -1,4 +1,4 @@
-# 
+# import itertools library 
 import itertools
 # Checks which gate is asked by the user
 def logic_gate(inputs, gate_type):
