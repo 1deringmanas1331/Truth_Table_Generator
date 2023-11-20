@@ -1,5 +1,6 @@
+# 
 import itertools
-#checks which gate is asked by the user
+# Checks which gate is asked by the user
 def logic_gate(inputs, gate_type):
     if gate_type == "AND":
         return all(inputs)
